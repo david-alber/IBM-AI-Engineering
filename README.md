@@ -2,7 +2,7 @@
 
 This repository shows how I mastered the capstone projects of the [IBM-AI-Engineering professional certificate](https://www.coursera.org/professional-certificates/ai-engineer), offered at [Coursera](https://www.coursera.org/). Overall the courses of this certificate aim to teach fundamental concepts of machine learning and deep learning, including supervised and unsupervised learning, using programming languages like Python. Through the following four capstone projects the theoretical concepts are brought into action. These projects make hands on use of the most popular machine learning libraries  [scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [PyTorch](https://pytorch.org/), and [Tensorflow](https://www.tensorflow.org/) to solve regression tasks, compare the performance of several deep model architectures, solve image classification tasks with convolutional neural networks and do transfere learning with the <code>ResNet50</code> and <code>VGG16</code> models. 
 
-Keywords: Machine learning, Deep learning, Regression, Classification, Tensorflow, PyTorch 
+**Keywords:** Machine learning, Deep learning, Regression, Classification, Tensorflow, PyTorch 
 
 ### The Capstone Projects: 
 | Course number | Course name | Project name | Content
